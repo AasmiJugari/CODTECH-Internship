@@ -1,7 +1,4 @@
-# CODTECH-Internship
-CODTECH Internship projects including API integration and data visualization, automated report generation, AI chatbot using NLP, and machine learning predictive model implementation.
-
-# CODTECH Internship Tasks
+**CODTECH Internship Tasks**
 
 This repository contains all tasks completed during the CODTECH internship as per the given instructions and deliverables.
 
